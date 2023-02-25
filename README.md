@@ -3,6 +3,7 @@
 <br>
 
 ![hongcana's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongcana&show_icons=true&theme=github_dark)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hongcana)](https://solved.ac/hongcana/) 
 
 <br>
 
